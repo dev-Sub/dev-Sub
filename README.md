@@ -4,11 +4,11 @@
 
 
 ## Profile
-👩 정세인 <br>
-👶 1995.02.18 <br>
-📞 010-2428-3742 <br>
+👩 신우섭 <br>
+👶 1999.11.04 <br>
+📞 010-5009-8631 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://www.notion.so/616157e577c54c20a04f242238e67801"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer.woosub@gmail.com)](mailto:developer.woosub@gmail.com) <span><a href="https://www.notion.so/5c3730c96111478db3eb4af7c94e21f4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
